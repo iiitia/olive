@@ -2,7 +2,7 @@
 
 A React + Tailwind CSS recreation of the [oliveapp.com](https://oliveapp.com) landing page, built as a frontend assessment project.
 
-Link: https://olive-iiitias-projects.vercel.app/
+Link:https://olive-mauve.vercel.app/
 
 ## Quick Start
 
